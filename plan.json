@@ -1,5 +1,6 @@
 {
   "business": "thewatercheck",
   "platform": "instagram",
+  "_how": "Optional overrides. Match a file in images/ by its name without extension. date pins the day; caption replaces the rotating one.",
   "posts": []
 }
