@@ -1,7 +1,128 @@
 {
   "business": "thewatercheck",
   "platform": "instagram",
-  "generated": "2026-09-08T20:53:35+00:00",
-  "count": 0,
-  "items": []
+  "generated": "2026-09-19T19:50:51+00:00",
+  "count": 12,
+  "items": [
+    {
+      "stem": "2026-09-21-post-01-cap-relaunch",
+      "file": "ready/2026-09-21-post-01-cap-relaunch.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-21-post-01-cap-relaunch.jpg",
+      "type": "IMAGE",
+      "caption": "we were gone for a minute. we're back, and we brought a department. this is cap. he runs it. he will be checking on you. comment CHECK and he'll check on you personally 💧",
+      "date": "2026-09-21",
+      "source": "images/2026-09-21__post-01-cap-relaunch.png",
+      "bytes": 153676
+    },
+    {
+      "stem": "2026-09-23-post-02-stop-allowed",
+      "file": "ready/2026-09-23-post-02-stop-allowed.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-23-post-02-stop-allowed.jpg",
+      "type": "IMAGE",
+      "caption": "that's the post. send this to someone who has been running on coffee and vibes since monday.",
+      "date": "2026-09-23",
+      "source": "images/2026-09-23__post-02-stop-allowed.png",
+      "bytes": 80428
+    },
+    {
+      "stem": "2026-09-25-post-03-cap-mirror",
+      "file": "ready/2026-09-25-post-03-cap-mirror.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-25-post-03-cap-mirror.jpg",
+      "type": "IMAGE",
+      "caption": "meet the department, part 1 of 5. cap is a capybara. capybaras sit in water all day, so he has zero patience for your excuses. he shows it with a slow blink, not a lecture. drop a 💧 if you sipped today.",
+      "date": "2026-09-25",
+      "source": "images/2026-09-25__post-03-cap-mirror.png",
+      "bytes": 147873
+    },
+    {
+      "stem": "2026-09-26-post-04-milo-bed",
+      "file": "ready/2026-09-26-post-04-milo-bed.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-26-post-04-milo-bed.jpg",
+      "type": "IMAGE",
+      "caption": "meet the department, part 2 of 5. milo is the intern. three coffees, zero water, phone in hand at 8am. he is the audience. everyone is milo on a tuesday. the bottle is right there, milo. tag someone who is also milo.",
+      "date": "2026-09-26",
+      "source": "images/2026-09-26__post-04-milo-bed.png",
+      "bytes": 181482
+    },
+    {
+      "stem": "2026-09-28-post-05-gallon-rule",
+      "file": "ready/2026-09-28-post-05-gallon-rule.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-28-post-05-gallon-rule.jpg",
+      "type": "IMAGE",
+      "caption": "meet the department, part 3 of 5. gallon is head of athletics. he is a miniature horse, 34 inches tall, and he still drinks about 2 gallons of water a day. you need about a glass. go. source: university extension guidance on horse water intake (half a gallon to a gallon per 100 lb, any size). comment CHECK for a personal check.",
+      "date": "2026-09-28",
+      "source": "images/2026-09-28__post-05-gallon-rule.png",
+      "bytes": 267649
+    },
+    {
+      "stem": "2026-09-30-post-06-scout-3pm",
+      "file": "ready/2026-09-30-post-06-scout-3pm.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-09-30-post-06-scout-3pm.jpg",
+      "type": "IMAGE",
+      "caption": "meet the department, part 4 of 5. scout is the field agent. you see a squirrel every single day, so he's the reminder that finds you. bus stop, parking lot, porch, windowsill. he saw the coffee. he saw the second coffee. drink something and drop a 💧.",
+      "date": "2026-09-30",
+      "source": "images/2026-09-30__post-06-scout-3pm.png",
+      "bytes": 216717
+    },
+    {
+      "stem": "2026-10-02-post-07-bubbles-cafe-a",
+      "file": "ready/2026-10-02-post-07-bubbles-cafe-a.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-02-post-07-bubbles-cafe-a.jpg",
+      "type": "IMAGE",
+      "caption": "bloat check: the coffee shop. you're not fat, just bloated. drink some water and check back in 20 minutes. dehydration makes you hold on to water, and drinking more is usually the fix, not less. want your number? calculate your water intake, link in bio 💧",
+      "date": "2026-10-02",
+      "source": "images/2026-10-02__post-07-bubbles-cafe-a.png",
+      "bytes": 279443
+    },
+    {
+      "stem": "2026-10-03-post-08-cap-1am",
+      "file": "ready/2026-10-03-post-08-cap-1am.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-03-post-08-cap-1am.jpg",
+      "type": "IMAGE",
+      "caption": "1am. phone at 8%. you at 8%. mild dehydration (1 to 2% of body weight) is linked to worse mood, focus and headaches. a glass of water is faster than another scroll. source: armstrong et al. 2012, journal of nutrition. drop a 💧 and go to bed.",
+      "date": "2026-10-03",
+      "source": "images/2026-10-03__post-08-cap-1am.png",
+      "bytes": 139986
+    },
+    {
+      "stem": "2026-10-05-post-09-milo-math",
+      "file": "ready/2026-10-05-post-09-milo-math.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-05-post-09-milo-math.jpg",
+      "type": "IMAGE",
+      "caption": "the headache is not the essay. the headache is the math. coffee counts toward your fluids more than people think, but three cans of anything is not a hydration plan. source: killer et al. 2014, plos one. tag your study buddy who is also milo.",
+      "date": "2026-10-05",
+      "source": "images/2026-10-05__post-09-milo-math.png",
+      "bytes": 159969
+    },
+    {
+      "stem": "2026-10-07-post-10-gallon-mirror",
+      "file": "ready/2026-10-07-post-10-gallon-mirror.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-07-post-10-gallon-mirror.jpg",
+      "type": "IMAGE",
+      "caption": "he is not the standard. he is a very small horse. you are a person. one glass right now is a win. comment CHECK and the department will log it.",
+      "date": "2026-10-07",
+      "source": "images/2026-10-07__post-10-gallon-mirror.png",
+      "bytes": 143144
+    },
+    {
+      "stem": "2026-10-09-post-11-scout-sink",
+      "file": "ready/2026-10-09-post-11-scout-sink.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-09-post-11-scout-sink.jpg",
+      "type": "IMAGE",
+      "caption": "squirrels get a lot of their water from food and morning dew and they still visit the birdbath. you have a sink. drop a 💧 when you use it.",
+      "date": "2026-10-09",
+      "source": "images/2026-10-09__post-11-scout-sink.png",
+      "bytes": 165782
+    },
+    {
+      "stem": "2026-10-10-post-12-bubbles-boardwalk-a",
+      "file": "ready/2026-10-10-post-12-bubbles-boardwalk-a.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-10-post-12-bubbles-boardwalk-a.jpg",
+      "type": "IMAGE",
+      "caption": "bloat check: the boardwalk. you're not fat, just bloated. salt air, long walk, not enough water. give it 20 minutes and check back in. dehydration makes you hold on to water, and drinking more is usually the fix, not less. want your number? calculate your water intake, link in bio 💧",
+      "date": "2026-10-10",
+      "source": "images/2026-10-10__post-12-bubbles-boardwalk-a.png",
+      "bytes": 231387
+    }
+  ]
 }
