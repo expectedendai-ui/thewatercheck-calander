@@ -5,6 +5,8 @@ manifest.json for André's publisher (andre-meta worker).
 
   images/<anything>.jpg|png|heic|webp|mp4|mov   →  ready/<stem>.jpg | ready/<stem>.mp4
   images/<stem>.txt                              →  caption for that file (optional)
+  images/<folder>/ with 2 to 10 images           →  one carousel post, slides in filename order
+                                                    (caption: <folder>/caption.txt or images/<folder>.txt)
   plan.json  {"posts":[{"file":"<stem>","date":"YYYY-MM-DD","caption":"…"}]}   (optional overrides)
   captions.txt                                   →  rotating captions for files without one
   A filename that starts with YYYY-MM-DD__ pins that date, e.g. 2026-09-20__glass.jpg
@@ -108,6 +110,41 @@ def main():
     ov = overrides()
     pool = captions_pool()
     items, seen, pool_i = [], set(), 0
+    for folder in sorted(p for p in IMAGES.iterdir() if p.is_dir() and not p.name.startswith(".")):
+        stem, date = parse_name(folder)
+        if stem in seen:
+            print(f"skip duplicate stem {stem} ({folder.name})"); continue
+        slides = sorted(p for p in folder.iterdir() if p.is_file() and not p.name.startswith(".") and p.suffix.lower() in IMAGE_EXT)
+        if not 2 <= len(slides) <= 10:
+            print(f"skip carousel {folder.name}: needs 2 to 10 images, has {len(slides)}"); continue
+        seen.add(stem)
+        outdir = READY / stem
+        outdir.mkdir(exist_ok=True)
+        children = []
+        for n, src in enumerate(slides, 1):
+            out = outdir / f"{n:02d}.jpg"
+            key = f"{stem}/{n:02d}"
+            digest = file_hash(src)
+            if state.get(key) != digest or not out.exists():
+                print(f"prepare {folder.name}/{src.name} → {stem}/{out.name}")
+                prepare_image(src, out)
+                state[key] = digest
+            children.append(RAW + f"{stem}/{out.name}")
+        for old in outdir.iterdir():
+            if old.name.endswith(".jpg") and int(old.stem) > len(slides):
+                old.unlink(); state.pop(f"{stem}/{old.stem}", None)
+        o = ov.get(stem, {})
+        cap_file = folder / "caption.txt"
+        side = IMAGES / f"{folder.name}.txt"
+        caption = (cap_file.read_text(encoding="utf-8").strip() if cap_file.exists() else "") or (side.read_text(encoding="utf-8").strip() if side.exists() else "") or o.get("caption", "")
+        if not caption and pool:
+            caption = pool[pool_i % len(pool)]; pool_i += 1
+        items.append({
+            "stem": stem, "file": f"ready/{stem}/01.jpg", "url": children[0],
+            "type": "CAROUSEL", "children": children, "caption": caption,
+            "date": o.get("date") or date, "source": f"images/{folder.name}/",
+            "bytes": sum((outdir / f"{n:02d}.jpg").stat().st_size for n in range(1, len(slides) + 1)),
+        })
     for src in sources:
         stem, date = parse_name(src)
         if stem in seen:
@@ -135,6 +172,10 @@ def main():
     for old in READY.iterdir():
         if old.is_file() and not old.name.startswith(".") and old.stem not in seen:
             print(f"remove {old.name} (source deleted)"); old.unlink(); state.pop(old.stem, None)
+        elif old.is_dir() and old.name not in seen:
+            import shutil
+            print(f"remove {old.name}/ (carousel deleted)"); shutil.rmtree(old)
+            for k in [k for k in state if k.startswith(old.name + "/")]: state.pop(k)
     items.sort(key=lambda it: ((it["date"] or "9999"), it["stem"]))
     manifest = {"business": "thewatercheck", "platform": "instagram", "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"), "count": len(items), "items": items}
     (ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
