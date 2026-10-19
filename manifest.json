@@ -1,8 +1,8 @@
 {
   "business": "thewatercheck",
   "platform": "instagram",
-  "generated": "2026-10-13T19:44:07+00:00",
-  "count": 15,
+  "generated": "2026-10-19T17:09:11+00:00",
+  "count": 12,
   "items": [
     {
       "stem": "2026-09-21-post-01-cap-relaunch",
@@ -123,58 +123,6 @@
       "date": "2026-10-10",
       "source": "images/2026-10-10__post-12-bubbles-boardwalk-a.png",
       "bytes": 231387
-    },
-    {
-      "stem": "post-13-widgets-carousel",
-      "file": "ready/post-13-widgets-carousel/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/01.jpg",
-      "type": "CAROUSEL",
-      "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/05.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-13-widgets-carousel/06.jpg"
-      ],
-      "caption": "Your water, on your Home Screen. 💧\n\nThe Water Check widget shows your day at a glance, and now it comes in 59 styles: designs, seasons, sports and places. Classic is free. One payment unlocks the rest, and you can try any style on before you buy.\n\nWhich one is going on your phone? 👇\n\n#TheWaterCheck #HomeScreen #iOSWidgets #Hydration #HomeScreenSetup",
-      "date": null,
-      "source": "images/post-13-widgets-carousel/",
-      "bytes": 820505
-    },
-    {
-      "stem": "post-14-more-than-water-carousel",
-      "file": "ready/post-14-more-than-water-carousel/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/01.jpg",
-      "type": "CAROUSEL",
-      "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-14-more-than-water-carousel/05.jpg"
-      ],
-      "caption": "It is not just water. 🍉⚡\n\nThe Water Check counts what you drink AND the water in what you eat. About a fifth of your daily water comes from food, and fruits and veggies bring electrolytes like potassium and magnesium with it.\n\nLog a glass, a bottle or a watermelon in one tap, and see your day split into drinks and food.\n\n#TheWaterCheck #Hydration #Electrolytes #WellnessApp #HealthyHabits",
-      "date": null,
-      "source": "images/post-14-more-than-water-carousel/",
-      "bytes": 485486
-    },
-    {
-      "stem": "post-15-calendar-wellness-carousel",
-      "file": "ready/post-15-calendar-wellness-carousel/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/01.jpg",
-      "type": "CAROUSEL",
-      "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/post-15-calendar-wellness-carousel/05.jpg"
-      ],
-      "caption": "Your month, in water. 📅\n\nEvery day you log shows up on your calendar with how close you got to your goal. Tap any day to see what it was made of. Keep a streak, or just notice your patterns.\n\nAnd the Wellness guide gives you real information instead of trends: the P-Meter, why a gallon is not a rule, and a note on giving yourself grace.\n\n#TheWaterCheck #Wellness #Hydration #HabitTracker #SelfCare",
-      "date": null,
-      "source": "images/post-15-calendar-wellness-carousel/",
-      "bytes": 496772
     }
   ]
 }
