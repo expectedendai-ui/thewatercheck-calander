@@ -1,8 +1,8 @@
 {
   "business": "thewatercheck",
   "platform": "instagram",
-  "generated": "2026-10-21T20:20:38+00:00",
-  "count": 22,
+  "generated": "2026-10-23T19:12:39+00:00",
+  "count": 28,
   "items": [
     {
       "stem": "2026-09-21-post-01-cap-relaunch",
@@ -303,6 +303,66 @@
       "date": "2026-11-07",
       "source": "images/2026-11-07__10-for-her/",
       "bytes": 525086
+    },
+    {
+      "stem": "2026-11-09-reel-1-scan-it-save-it",
+      "file": "ready/2026-11-09-reel-1-scan-it-save-it.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-09-reel-1-scan-it-save-it.mp4",
+      "type": "REEL",
+      "caption": "I scanned my drink once. The app remembered it forever. 🥤\n\nsnap a photo, get a quick read of the label (sugar in teaspoons, every ingredient explained), then tap \"Save it?\" and it lives on your Add page. next time it's one tap. no new scan.\n\nThe Water Check is coming soon 💧\n\n#thewatercheck #hydration #drinkmorewater #watertok #wellnessapp",
+      "date": "2026-11-09",
+      "source": "images/2026-11-09__reel-1-scan-it-save-it.mp4",
+      "bytes": 5782640
+    },
+    {
+      "stem": "2026-11-11-reel-2-add-page",
+      "file": "ready/2026-11-11-reel-2-add-page.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-11-reel-2-add-page.mp4",
+      "type": "REEL",
+      "caption": "the most satisfying page in any water app. 🍉🥒🍓\n\nwatermelon, cucumber, strawberries, oranges and more, all drawn as little bubbles. tap the + and it counts toward your water. food hydrates you too, and you can see about how much water each one holds.\n\ncoming soon 💧\n\n#thewatercheck #hydration #satisfying #waterintake #foodcountstoo",
+      "date": "2026-11-11",
+      "source": "images/2026-11-11__reel-2-add-page.mp4",
+      "bytes": 5104391
+    },
+    {
+      "stem": "2026-11-13-reel-3-pop-the-bubble",
+      "file": "ready/2026-11-13-reel-3-pop-the-bubble.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-13-reel-3-pop-the-bubble.mp4",
+      "type": "REEL",
+      "caption": "learning about my own body but make it ASMR. 🫧\n\nevery chapter in the Water Check Guide is a bubble with a question on it. read it, tap \"I know this now\", and it pops into a pearl. now and then one comes out golden, just a little luck. there are chapters just for her too.\n\ncoming soon 💧\n\n#thewatercheck #hydration #asmr #learnyourbody #wellness",
+      "date": "2026-11-13",
+      "source": "images/2026-11-13__reel-3-pop-the-bubble.mp4",
+      "bytes": 5171939
+    },
+    {
+      "stem": "2026-11-14-reel-4-aquarium-widgets",
+      "file": "ready/2026-11-14-reel-4-aquarium-widgets.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-14-reel-4-aquarium-widgets.mp4",
+      "type": "REEL",
+      "caption": "my Home Screen is an aquarium now. 🐢🐬🐳🐙🪼\n\nsea turtle, dolphin, whale, octopus, jellyfish and seahorse, each one fills up as you drink. and that's just the sea. 86 styles in all, one of them is you.\n\ncoming soon 💧\n\n#thewatercheck #hydration #homescreen #widgets #aesthetic",
+      "date": "2026-11-14",
+      "source": "images/2026-11-14__reel-4-aquarium-widgets.mp4",
+      "bytes": 8092489
+    },
+    {
+      "stem": "2026-11-16-reel-5-crew",
+      "file": "ready/2026-11-16-reel-5-crew.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-16-reel-5-crew.mp4",
+      "type": "REEL",
+      "caption": "group chat but everyone is drinking water. 💬💧\n\nyour Crew shows up as bubbles filling toward their own goal. send a cheer, drop a quick message, keep a streak going together. friends only, first names only, kind messages only.\n\ncoming soon. tag the friend who needs a water break 👀\n\n#thewatercheck #hydration #drinkwater #bestfriends #accountability",
+      "date": "2026-11-16",
+      "source": "images/2026-11-16__reel-5-crew.mp4",
+      "bytes": 4727776
+    },
+    {
+      "stem": "2026-11-18-reel-6-your-sport",
+      "file": "ready/2026-11-18-reel-6-your-sport.mp4",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-18-reel-6-your-sport.mp4",
+      "type": "REEL",
+      "caption": "tell us your sport, we'll find your widget. 🏐🏃‍♀️🚴🏀\n\nsign-up asks what you play, then your sport's widget shows up first. volleyball, running, cycling, hoops and a lot more.\n\ncoming soon 💧\n\n#thewatercheck #hydration #athlete #gameday #studentathlete",
+      "date": "2026-11-18",
+      "source": "images/2026-11-18__reel-6-your-sport.mp4",
+      "bytes": 4386245
     }
   ]
 }
