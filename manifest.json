@@ -1,8 +1,8 @@
 {
   "business": "thewatercheck",
   "platform": "instagram",
-  "generated": "2026-10-23T19:14:33+00:00",
-  "count": 28,
+  "generated": "2026-10-28T20:55:34+00:00",
+  "count": 26,
   "items": [
     {
       "stem": "2026-09-21-post-01-cap-relaunch",
@@ -199,170 +199,176 @@
       "bytes": 807500
     },
     {
-      "stem": "2026-10-30-05-scan-it-save-it",
-      "file": "ready/2026-10-30-05-scan-it-save-it/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/01.jpg",
+      "stem": "2026-10-28-v2-01-a-gallon-is-a-lie",
+      "file": "ready/2026-10-28-v2-01-a-gallon-is-a-lie/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/01.jpg",
       "type": "CAROUSEL",
       "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/05.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/06.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-05-scan-it-save-it/07.jpg"
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-28-v2-01-a-gallon-is-a-lie/05.jpg"
       ],
-      "caption": "i scanned my drink once and the app remembered it forever 😭\n\ntake a photo of any drink: it gets a score, a color ring and its own little icon. save it, and next time it's one tap. no scan needed. food counts too.\n\ncoming soon 💧\n\n#thewatercheck #drinkcheck #whatsinmydrink #hydration #healthyhabits",
+      "caption": "a gallon a day is a lie. 💧\n\nyour body, your training and your day decide how much water you need, not a rule someone made up. the water check builds a water number made just for you, then shows you how many glasses to go.\n\ncoming soon. follow so you catch launch day.\n\n#thewatercheck #hydration #drinkmorewater #waterintake #healthyhabits #wellness",
+      "date": "2026-10-28",
+      "source": "images/2026-10-28__v2-01-a-gallon-is-a-lie/",
+      "bytes": 767755
+    },
+    {
+      "stem": "2026-10-29-v2-02-the-app-snitched",
+      "file": "ready/2026-10-29-v2-02-the-app-snitched/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/01.jpg",
+      "type": "CAROUSEL",
+      "children": [
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/05.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-29-v2-02-the-app-snitched/06.jpg"
+      ],
+      "caption": "scanned my sports drink and the app read the whole label back to me 😭\n\nthe water check reads it for you: sugar in teaspoons, caffeine, electrolytes and every ingredient rated. scan the barcode, or snap a photo when there isn't one.\n\ncoming soon. which drink would you scan first?\n\n#thewatercheck #drinkcheck #whatsinmydrink #readthelabel #hydration",
+      "date": "2026-10-29",
+      "source": "images/2026-10-29__v2-02-the-app-snitched/",
+      "bytes": 899943
+    },
+    {
+      "stem": "2026-10-30-v2-03-whats-in-your-drinks",
+      "file": "ready/2026-10-30-v2-03-whats-in-your-drinks/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/01.jpg",
+      "type": "CAROUSEL",
+      "children": [
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-30-v2-03-whats-in-your-drinks/05.jpg"
+      ],
+      "caption": "water was never the only thing in your cup.\n\nthe new progress page shows your day bar by bar: water, sodium, potassium, magnesium, calcium, caffeine and sugar. one look and you know where you stand.\n\ncoming soon. save this for later 💧\n\n#thewatercheck #electrolytes #hydration #caffeine #sugar #healthyhabits",
       "date": "2026-10-30",
-      "source": "images/2026-10-30__05-scan-it-save-it/",
-      "bytes": 953804
+      "source": "images/2026-10-30__v2-03-whats-in-your-drinks/",
+      "bytes": 668963
     },
     {
-      "stem": "2026-10-31-06-the-add-page",
-      "file": "ready/2026-10-31-06-the-add-page/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/01.jpg",
+      "stem": "2026-10-31-v2-04-crew",
+      "file": "ready/2026-10-31-v2-04-crew/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/01.jpg",
       "type": "CAROUSEL",
       "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/05.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-06-the-add-page/06.jpg"
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-10-31-v2-04-crew/05.jpg"
       ],
-      "caption": "the most satisfying page in any water app and i will not be taking questions 🍉\n\ntap the + and it's added. didn't mean it? undo. your favorite foods move to the front, and every fruit counts toward your water.\n\ncoming soon 💧\n\n#thewatercheck #hydration #waterrichfoods #fruit #healthyhabits",
+      "caption": "a group chat, except everyone is drinking water 🫧\n\nmake a crew with your roommates, your team or your gym partner. see each other's percent for the day, send a splash, and keep a crew streak going. no ounces, no notes, just cheering each other on.\n\ncoming soon. tag your crew 👇\n\n#thewatercheck #crew #hydrationchallenge #accountabilitypartner #drinkwater",
       "date": "2026-10-31",
-      "source": "images/2026-10-31__06-the-add-page/",
-      "bytes": 755251
+      "source": "images/2026-10-31__v2-04-crew/",
+      "bytes": 718770
     },
     {
-      "stem": "2026-11-02-07-sea-life-widgets",
-      "file": "ready/2026-11-02-07-sea-life-widgets/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/01.jpg",
+      "stem": "2026-11-01-v2-05-89-widget-styles",
+      "file": "ready/2026-11-01-v2-05-89-widget-styles/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/01.jpg",
       "type": "CAROUSEL",
       "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-07-sea-life-widgets/05.jpg"
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/05.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-01-v2-05-89-widget-styles/06.jpg"
       ],
-      "caption": "my home screen is an aquarium now 🐢🐬🐳🐙🪼\n\nsix new sea life widgets: sea turtle, dolphin, whale, octopus, jellyfish and seahorse. three colors each. 86 widget styles in all.\n\ncoming soon 💧\n\n#thewatercheck #widgets #homescreen #homescreensetup #sealife",
+      "caption": "my home screen finally matches my personality 😮‍💨\n\n89 widget styles: sports, sea life, places, seasons, girlypop, 8-bit, synthwave and more. log a glass right from your home screen without opening the app.\n\ncoming soon. which one is you?\n\n#thewatercheck #widgets #homescreen #iosaesthetic #homescreenideas #hydration",
+      "date": "2026-11-01",
+      "source": "images/2026-11-01__v2-05-89-widget-styles/",
+      "bytes": 1163525
+    },
+    {
+      "stem": "2026-11-02-v2-06-built-for-athletes",
+      "file": "ready/2026-11-02-v2-06-built-for-athletes/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/01.jpg",
+      "type": "CAROUSEL",
+      "children": [
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/05.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-02-v2-06-built-for-athletes/06.jpg"
+      ],
+      "caption": "athletes: your water number should know you trained today. 🏀🏈⚽️\n\npick your sport and get your widget. track sodium, potassium, magnesium and calcium from what you drink. and learn how sweat, salt and water keep your muscles and nerves firing.\n\nbuilt by a student-athlete. coming soon.\n\n#thewatercheck #athlete #studentathlete #electrolytes #hydration #sportsnutrition",
       "date": "2026-11-02",
-      "source": "images/2026-11-02__07-sea-life-widgets/",
-      "bytes": 708120
+      "source": "images/2026-11-02__v2-06-built-for-athletes/",
+      "bytes": 826706
     },
     {
-      "stem": "2026-11-04-08-your-sport-widgets",
-      "file": "ready/2026-11-04-08-your-sport-widgets/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/01.jpg",
+      "stem": "2026-11-03-v2-07-pick-your-look",
+      "file": "ready/2026-11-03-v2-07-pick-your-look/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/01.jpg",
       "type": "CAROUSEL",
       "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-08-your-sport-widgets/05.jpg"
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-03-v2-07-pick-your-look/05.jpg"
       ],
-      "caption": "tell us your sport, we'll find your widget 🏃‍♀️🚴‍♂️🏐\n\nnew: running, cross country and cycling. volleyball got a fourth color, royal. pick your sport when you sign up and your widget shows up first.\n\ncoming soon 💧\n\n#thewatercheck #widgets #runners #crosscountry #volleyball",
+      "caption": "water, light or black. which side are you on? 🌊🤍🖤\n\nthe water check now comes in three looks. pick one when you sign up and switch any time in settings.\n\ncoming soon.\n\n#thewatercheck #darkmode #lightmode #appdesign #aesthetic #hydration",
+      "date": "2026-11-03",
+      "source": "images/2026-11-03__v2-07-pick-your-look/",
+      "bytes": 701725
+    },
+    {
+      "stem": "2026-11-04-v2-08-one-tap",
+      "file": "ready/2026-11-04-v2-08-one-tap/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/01.jpg",
+      "type": "CAROUSEL",
+      "children": [
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-04-v2-08-one-tap/05.jpg"
+      ],
+      "caption": "logging water should take one tap, not five. ☝️\n\ntap +, pick glass, bottle, coffee or scan a drink. your last drinks sit right at the top so a repeat is one tap away.\n\ncoming soon. save this 💧\n\n#thewatercheck #hydration #habittracker #waterreminder #productivity",
       "date": "2026-11-04",
-      "source": "images/2026-11-04__08-your-sport-widgets/",
-      "bytes": 603471
+      "source": "images/2026-11-04__v2-08-one-tap/",
+      "bytes": 623588
     },
     {
-      "stem": "2026-11-06-09-pop-the-bubble",
-      "file": "ready/2026-11-06-09-pop-the-bubble/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/01.jpg",
+      "stem": "2026-11-05-v2-09-every-day-counts",
+      "file": "ready/2026-11-05-v2-09-every-day-counts/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-05-v2-09-every-day-counts/01.jpg",
       "type": "CAROUSEL",
       "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-09-pop-the-bubble/05.jpg"
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-05-v2-09-every-day-counts/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-05-v2-09-every-day-counts/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-05-v2-09-every-day-counts/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-05-v2-09-every-day-counts/04.jpg"
       ],
-      "caption": "learning about my own body but make it asmr 🫧\n\nevery question in the water check guide is a bubble. read it to the end and it pops into a pearl. 1 in 6 is a rare golden one. no streaks, no pressure.\n\ncoming soon 💧\n\n#thewatercheck #hydration #knowyourbody #wellness #selfcare",
+      "caption": "14 days at goal this month. not perfect. still proud. 📅\n\nthe calendar shows every day side by side, your streak, and tide marks you earn along the way: first tide, three in a row, a full week, a whole month.\n\ncoming soon.\n\n#thewatercheck #habittracker #streak #consistency #hydration #healthyhabits",
+      "date": "2026-11-05",
+      "source": "images/2026-11-05__v2-09-every-day-counts/",
+      "bytes": 609538
+    },
+    {
+      "stem": "2026-11-06-v2-10-learn-your-body",
+      "file": "ready/2026-11-06-v2-10-learn-your-body/01.jpg",
+      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/01.jpg",
+      "type": "CAROUSEL",
+      "children": [
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/01.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/02.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/03.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/04.jpg",
+        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-06-v2-10-learn-your-body/05.jpg"
+      ],
+      "caption": "you are made up of about 60% water. so why does nobody teach you how it works? 🫧\n\nthe water check guide: tap a bubble, learn one thing about your own body, and it turns into a pearl. why you feel low battery, what your pee is telling you, can food hydrate you, and a whole section just for her.\n\ntechnology should help you live your own life, not someone else's.\n\ncoming soon.\n\n#thewatercheck #learnyourbody #hydration #wellness #womenshealth #healthyhabits",
       "date": "2026-11-06",
-      "source": "images/2026-11-06__09-pop-the-bubble/",
-      "bytes": 605945
-    },
-    {
-      "stem": "2026-11-07-10-for-her",
-      "file": "ready/2026-11-07-10-for-her/01.jpg",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/01.jpg",
-      "type": "CAROUSEL",
-      "children": [
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/01.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/02.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/03.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/04.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/05.jpg",
-        "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-07-10-for-her/06.jpg"
-      ],
-      "caption": "3 pee colors that have nothing to do with water 🩷\n\nyour period can tint it, vitamins can make it neon, and the first one of the day is darker for everyone. the water check guide has chapters just for her. not medical advice: if something feels off, talk to a doctor.\n\ncoming soon 💧\n\n#thewatercheck #womenshealth #hydration #knowyourbody #periodtalk",
-      "date": "2026-11-07",
-      "source": "images/2026-11-07__10-for-her/",
-      "bytes": 525086
-    },
-    {
-      "stem": "2026-11-09-reel-1-scan-it-save-it",
-      "file": "ready/2026-11-09-reel-1-scan-it-save-it.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-09-reel-1-scan-it-save-it.mp4",
-      "type": "REEL",
-      "caption": "I scanned my drink once. The app remembered it forever. 🥤\n\nsnap a photo, get a quick read of the label (sugar in teaspoons, every ingredient explained), then tap \"Save it?\" and it lives on your Add page. next time it's one tap. no new scan.\n\nThe Water Check is coming soon 💧\n\n#thewatercheck #hydration #drinkmorewater #watertok #wellnessapp",
-      "date": "2026-11-09",
-      "source": "images/2026-11-09__reel-1-scan-it-save-it.mp4",
-      "bytes": 5782640
-    },
-    {
-      "stem": "2026-11-11-reel-2-add-page",
-      "file": "ready/2026-11-11-reel-2-add-page.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-11-reel-2-add-page.mp4",
-      "type": "REEL",
-      "caption": "the most satisfying page in any water app. 🍉🥒🍓\n\nwatermelon, cucumber, strawberries, oranges and more, all drawn as little bubbles. tap the + and it counts toward your water. food hydrates you too, and you can see about how much water each one holds.\n\ncoming soon 💧\n\n#thewatercheck #hydration #satisfying #waterintake #foodcountstoo",
-      "date": "2026-11-11",
-      "source": "images/2026-11-11__reel-2-add-page.mp4",
-      "bytes": 5104391
-    },
-    {
-      "stem": "2026-11-13-reel-3-pop-the-bubble",
-      "file": "ready/2026-11-13-reel-3-pop-the-bubble.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-13-reel-3-pop-the-bubble.mp4",
-      "type": "REEL",
-      "caption": "learning about my own body but make it ASMR. 🫧\n\nevery chapter in the Water Check Guide is a bubble with a question on it. read it, tap \"I know this now\", and it pops into a pearl. now and then one comes out golden, just a little luck. there are chapters just for her too.\n\ncoming soon 💧\n\n#thewatercheck #hydration #asmr #learnyourbody #wellness",
-      "date": "2026-11-13",
-      "source": "images/2026-11-13__reel-3-pop-the-bubble.mp4",
-      "bytes": 5171939
-    },
-    {
-      "stem": "2026-11-14-reel-4-aquarium-widgets",
-      "file": "ready/2026-11-14-reel-4-aquarium-widgets.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-14-reel-4-aquarium-widgets.mp4",
-      "type": "REEL",
-      "caption": "my Home Screen is an aquarium now. 🐢🐬🐳🐙🪼\n\nsea turtle, dolphin, whale, octopus, jellyfish and seahorse, each one fills up as you drink. and that's just the sea. 86 styles in all, one of them is you.\n\ncoming soon 💧\n\n#thewatercheck #hydration #homescreen #widgets #aesthetic",
-      "date": "2026-11-14",
-      "source": "images/2026-11-14__reel-4-aquarium-widgets.mp4",
-      "bytes": 8092489
-    },
-    {
-      "stem": "2026-11-16-reel-5-crew",
-      "file": "ready/2026-11-16-reel-5-crew.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-16-reel-5-crew.mp4",
-      "type": "REEL",
-      "caption": "group chat but everyone is drinking water. 💬💧\n\nyour Crew shows up as bubbles filling toward their own goal. send a cheer, drop a quick message, keep a streak going together. friends only, first names only, kind messages only.\n\ncoming soon. tag the friend who needs a water break 👀\n\n#thewatercheck #hydration #drinkwater #bestfriends #accountability",
-      "date": "2026-11-16",
-      "source": "images/2026-11-16__reel-5-crew.mp4",
-      "bytes": 4727776
-    },
-    {
-      "stem": "2026-11-18-reel-6-your-sport",
-      "file": "ready/2026-11-18-reel-6-your-sport.mp4",
-      "url": "https://raw.githubusercontent.com/expectedendai-ui/thewatercheck-calander/main/ready/2026-11-18-reel-6-your-sport.mp4",
-      "type": "REEL",
-      "caption": "tell us your sport, we'll find your widget. 🏐🏃‍♀️🚴🏀\n\nsign-up asks what you play, then your sport's widget shows up first. volleyball, running, cycling, hoops and a lot more.\n\ncoming soon 💧\n\n#thewatercheck #hydration #athlete #gameday #studentathlete",
-      "date": "2026-11-18",
-      "source": "images/2026-11-18__reel-6-your-sport.mp4",
-      "bytes": 4386245
+      "source": "images/2026-11-06__v2-10-learn-your-body/",
+      "bytes": 787860
     }
   ]
 }
