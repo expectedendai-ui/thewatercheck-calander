@@ -1,7 +1,5 @@
-athletes: your water number should know you trained today. 🏀🏈⚽️
+9 years of training taught me this: water is part of the training. Lose about 2% of your body weight in sweat and your performance starts dropping. But chugging water with no electrolytes isn't the fix either.
 
-pick your sport and get your widget. track sodium, potassium, magnesium and calcium from what you drink. and learn how sweat, salt and water keep your muscles and nerves firing.
+I built this for us. Pick your sport, track your electrolytes, learn how your body actually runs. Built by a student-athlete, for student-athletes. Coming soon.
 
-built by a student-athlete. coming soon.
-
-#thewatercheck #athlete #studentathlete #electrolytes #hydration #sportsnutrition
+#thewatercheck #studentathlete #electrolytes #sportsperformance #lynnuniversity
